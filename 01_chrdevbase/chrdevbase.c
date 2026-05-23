@@ -2,7 +2,7 @@
  * @Author: HaikaKitagawa 1031168824@qq.com
  * @Date: 2026-05-23 18:18:17
  * @LastEditors: HaikaKitagawa 1031168824@qq.com
- * @LastEditTime: 2026-05-23 19:57:24
+ * @LastEditTime: 2026-05-23 20:00:32
  * @FilePath: /linux_driver/01_chrdevbase/chrdevbase.c
  * @Description: Linux字符设备驱动程序示例代码，演示了如何实现一个简单的字符设备驱动，包括设备的打开、读取、写入和释放操作。该驱动程序注册了一个字符设备，并提供了相应的文件操作函数，以便用户空间程序可以通过设备文件与内核进行交互。
  * 

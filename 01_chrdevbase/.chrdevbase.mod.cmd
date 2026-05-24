@@ -1,1 +1,0 @@
-cmd_/home/haika/rk3506_vanxoak_sdk/linux_driver/01_chrdevbase/chrdevbase.mod := printf '%s\n'   chrdevbase.o | awk '!x[$$0]++ { print("/home/haika/rk3506_vanxoak_sdk/linux_driver/01_chrdevbase/"$$0) }' > /home/haika/rk3506_vanxoak_sdk/linux_driver/01_chrdevbase/chrdevbase.mod

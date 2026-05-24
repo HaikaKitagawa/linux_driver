@@ -1,1 +1,0 @@
-cmd_/home/haika/rk3506_vanxoak_sdk/linux_driver/01_chrdevbase/Module.symvers :=  sed 's/ko$$/o/'  /home/haika/rk3506_vanxoak_sdk/linux_driver/01_chrdevbase/modules.order | scripts/mod/modpost       -o /home/haika/rk3506_vanxoak_sdk/linux_driver/01_chrdevbase/Module.symvers -e -i Module.symvers -T - 

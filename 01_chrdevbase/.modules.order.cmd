@@ -1,1 +1,0 @@
-cmd_/home/haika/rk3506_vanxoak_sdk/linux_driver/01_chrdevbase/modules.order := {   echo /home/haika/rk3506_vanxoak_sdk/linux_driver/01_chrdevbase/chrdevbase.ko; :; } > /home/haika/rk3506_vanxoak_sdk/linux_driver/01_chrdevbase/modules.order

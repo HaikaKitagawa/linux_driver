@@ -1,8 +1,8 @@
 /*
  * @Author: HaikaKitagawa 1031168824@qq.com
  * @Date: 2026-05-25 22:00:22
- * @LastEditors: HaikaKitagawa 1031168824@qq.com
- * @LastEditTime: 2026-05-26 01:47:13
+ * @LastEditors: HaikaKitagawa a1031168824@gmail.com
+ * @LastEditTime: 2026-05-26 02:01:03
  * @FilePath: /linux_driver/02_led/led.c
  * @Description: 
   Linux内核模块：LED灯控制
@@ -18,8 +18,8 @@
 #include <linux/module.h>
 #include <linux/errno.h>
 #include <linux/gpio.h>
-#include <asm/uaccess.h>
 #include <linux/fs.h>
+#include <asm/uaccess.h>
 #include <asm/io.h>
 
 #define LED_MAJOR       200
